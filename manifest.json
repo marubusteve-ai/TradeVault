@@ -1,0 +1,14 @@
+{
+  "name": "Ledger — Trading Journal",
+  "short_name": "Ledger",
+  "description": "Institutional-style trading journal with prop firm rule tracking, psychology dashboard, and analytics.",
+  "start_url": "./trading-journal.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
